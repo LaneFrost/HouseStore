@@ -1,0 +1,123 @@
+.jumbotron {
+    background-image: url(top-hero.jpg);
+    background-size: cover;
+    background-position: center 0px;
+    padding-top: 186px;
+    padding-bottom: 392px;
+    /* [disabled]top: 195px; */
+}
+.display-4 {
+    background-position: center center;
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #FFFFFF;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.body {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    margin-right: 479px;
+    margin-left: 482px;
+}
+.lead {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 0px #D29000;
+    font-style: italic;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bolder;
+}
+.btn {
+    background-color: #DD7600;
+    border-radius: 10px;
+    color: #000000;
+    font-weight: bold;
+}
+.jumbotron .lead .btn.btn-primary.btn-lg {
+}
+.navbar {
+    background-color: #EA9700;
+}
+.navbar-expand-lg {
+    color: #FEFEFE;
+}
+.body {
+}
+.container-fluid .row .col-xl-12 {
+    text-align: center;
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.body1 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    padding-bottom: 145px;
+}
+.body1 {
+}
+.row .col-xl-4 img {
+    text-align: center;
+    margin-left: 75px;
+    border-radius: 1140px;
+}
+.color {
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: normal;
+}
+.RC {
+    color: #FF0004;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-size: xx-large;
+}
+.GC {
+    font-size: xx-large;
+    font-style: italic;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    text-align: center;
+    color: #146600;
+}
+.BC {
+    color: #0500B0;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+.color {
+}
+.RC {
+}
+.GC {
+}
+.footer {
+    background-image: url(footer.jpg);
+    background-position: center center;
+    padding-bottom: 32px;
+}
+.footbody {
+    padding-left: 375px;
+    padding-right: 375px;
+}
+.nav-link {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: large;
+}
